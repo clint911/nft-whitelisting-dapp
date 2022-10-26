@@ -1,1 +1,1 @@
-#nft-whitelisting-dapp
+#nft-white-listing-dapp
